@@ -1,0 +1,14 @@
+{
+    "export-report": true,
+    "increment": true,
+    "limit": true,
+    "check-authors": true,
+    "check-comments": true,
+    "smart-tags": false,
+    "tool1CD": false,
+    "unpackForm": false,
+    "disable-support": false,
+    "sync-remote": true,
+    "edtExport": false,
+    "replace-authors": true
+}

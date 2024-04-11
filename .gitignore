@@ -1,7 +1,9 @@
 # ---> 1C Server
 
 *.deb
-
+*.tar.gz
+.env
+.ssh/*
 # ---> Visual Studio Code (VSCode)
 
 ## Directory-based project format:

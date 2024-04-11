@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>gitsync-plugins-itworks</name>
+    <version>0.0.1</version>
+    <author>ITWORKS</author>
+    <author-email>help@itworks.group</author-email>
+    <description>Набор плагинов для gitsync ITWORKS</description>
+    <engine-version>1.7.0</engine-version>
+    <depends-on name="strings" dev="false" version="0.4.1"/>
+</opm-metadata>
